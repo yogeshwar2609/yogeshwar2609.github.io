@@ -1,14 +1,12 @@
 ---
-title: "Paper Title Number 1"
+title: "Optical Signatures and Quantum Geometry in Proximity-Induced Topological Superconductors"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2026-optical-signatures-quantum-geometry
+excerpt: 'We compute the optical conductivity and spectral functions of proximity-induced topological superconductors using the BdG formalism, revealing signatures of Majorana edge modes and the role of quantum geometry in optical response.'
+date: 2026-01-01
+venue: 'arXiv preprint'
+paperurl: 'https://arxiv.org/abs/2601.04635'
+citation: 'Y. Prasad, R. Ghadimi, S. Cheon. arXiv:2601.04635 (2026).'
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+We compute the optical conductivity and spectral functions of proximity-induced topological superconductors combining topological insulators or Rashba materials with conventional superconductors using the BdG formalism. Our analysis reveals signatures of Majorana edge modes and the role of quantum geometry in optical response.
