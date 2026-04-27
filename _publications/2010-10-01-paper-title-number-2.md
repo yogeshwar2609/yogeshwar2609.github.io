@@ -1,14 +1,12 @@
 ---
-title: "Paper Title Number 2"
+title: "Single-particle excitations across the many-body localization transition in a quasiperiodic system"
 collection: publications
 category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides2.pdf'
-paperurl: 'https://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/2024-03-mbl-quasiperiodic-spe
+excerpt: 'We study single-particle excitations in a quasiperiodic (Aubry-André) system across the MBL transition, revealing spectral signatures of ergodicity breaking.'
+date: 2024-03-01
+venue: 'Physical Review B'
+paperurl: 'https://doi.org/10.1103/PhysRevB.109.094204'
+citation: 'Y. Prasad, A. Garg. Phys. Rev. B 109, 094204 (2024).'
 ---
-
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+We investigate single-particle excitations across the many-body localization (MBL) transition in a one-dimensional quasiperiodic interacting system using exact diagonalization. We compute single-particle spectral functions and density of states across the ergodic-MBL phase boundary, characterizing how single-particle excitations evolve from delocalized to localized regimes.
