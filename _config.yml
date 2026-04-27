@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Yogeshwar Prasad"
 title_separator          : "-"
 name                     : &name "Yogeshwar Prasad"
-description              : &description "Theoretical Condensed Matter Physicist | Many-Body Localization | Strongly Correlated Systems | Department of Physics and Astronomy, Research Institute for Basic Science, SNU"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Theoretical Condensed Matter Physicist | Many-Body Localization | Strongly Correlated Systems | Research Institute of Basic Sciences, Department of Physics and Astronomy, SNU"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://yogeshwar2609.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,9 +26,9 @@ author:
   avatar           : "profile.png"
   name             : "Yogeshwar Prasad"
   pronouns         : # example: "she/her"  
-  bio              : "Senior Researcher, Department of Physics and Astronomy, Research Institute for Basic Science, Seoul National University. Research in many-body localization, strongly correlated quantum systems, and topological superconductivity."
+  bio              : "Senior Researcher in the Research Institute of Basic Sciences, Department of Physics and Astronomy, Seoul National University. Research in many-body localization, strongly correlated quantum systems, and topological superconductivity."
   location         : "Seoul, Republic of Korea"
-  employer         : "Department of Physics and Astronomy, Research Institute for Basic Science, Seoul National University"
+  employer         : "Research Institute of Basic Sciences, Department of Physics and Astronomy, Seoul National University"
   uri              : # URL
   email            : "yogeshwar@snu.ac.kr" 
 
