@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Postdoctoral Researcher in the Department of Physics and Astronomy at [Seoul National University](https://www.snu.ac.kr), working with Prof. Hunpyo Lee. I received my Ph.D. from the [Indian Institute of Science (IISc)](https://iisc.ac.in), Bangalore. My research lies at the interface of **condensed matter theory**, **quantum many-body physics**, and **numerical methods**.
+I am a Senior Researcher at the [Research Institute for Basic Science, Seoul National University](https://www.snu.ac.kr). I received my Ph.D. from the [Indian Institute of Science (IISc)](https://iisc.ac.in), Bangalore. My research lies at the interface of **condensed matter theory**, **quantum many-body physics**, and **numerical methods**.
 
 ## Research Interests
 
